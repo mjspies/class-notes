@@ -1,5 +1,5 @@
 # Dotnet Overview 
-![Dotnet Overview](\assets\images\dotnet.excalidraw.svg)
+![Dotnet Overview](\img\dotnet.excalidraw.svg)
 
 ## What is it?
 It is a platform for writing and running software from Microsoft.
